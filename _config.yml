@@ -88,7 +88,7 @@ locationBlockTitle: "Location"
 eventLocationName: "University of Ilorin Auditorium basement"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: ""
-eventAddressLocality: "University of ILorin Main Campus"
+eventAddressLocality: "University of Ilorin Main Campus"
 eventAddressLocalityRegion: "Ilorin"
 eventPostalCode: "79000"
 eventAddressCountry: "Nigeria"
@@ -140,7 +140,7 @@ ticketsOffers:
   ticketContentList: ["Cool Google Swags for participants", "deliciuos Lunch", "Cookies and Cofee during breaks"]
   validFrom: "2014-11-25T10:00"
   validThrough: "2014-11-25T23:59"
- -
+ # -
  # -
  #  name: "Early Bird"
  #  price: "350"
