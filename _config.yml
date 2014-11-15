@@ -19,19 +19,19 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Unilorin"
 organizerAlternateName: "Google Developer Group Unilorin"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "gdgunilorin@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://unilorin.gdg.ng/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@gdgunilorin"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://bit.ly/12tLki4﻿"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Register to Attend"}
+ - {link: "http://bit.ly/12tLki4﻿", text: "Register to Attend"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Register to Attend"}
+ - {link: "http://bit.ly/12tLki4﻿", text: "Register to Attend"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -87,8 +87,8 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "University of Ilorin Auditorium basement"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: ""
-eventAddressLocality: "University of Ilorin Main Campus"
+eventStreetAddress: "University of Ilorin Main Campus"
+eventAddressLocality: ""
 eventAddressLocalityRegion: "Ilorin"
 eventPostalCode: "79000"
 eventAddressCountry: "Nigeria"
@@ -134,7 +134,7 @@ ticketsOffers:
   price: "Free"
   priceCurrency: ""
   ticketsNumber: "150"
-  ribbon: "-5%"
+  ribbon: "-100%"
   buyButtonLink: "http://bit.ly/12tLki4﻿"
   buyButtonText: "Register Now"
   ticketContentList: ["Cool Google Swags for participants", "deliciuos Lunch", "Cookies and Cofee during breaks"]
